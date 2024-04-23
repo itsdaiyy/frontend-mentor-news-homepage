@@ -4,7 +4,7 @@ import NavMobile from './NavMobile';
 
 function Header() {
   return (
-    <header className="mx-auto flex w-full max-w-7xl items-center justify-between py-4 md:py-8">
+    <header className="mx-auto flex w-full max-w-7xl items-center justify-between px-7 py-4 md:py-8">
       <img src={logo} />
       <NavDesktop />
       <NavMobile />

@@ -4,7 +4,7 @@ import Main from './components/Main/Main';
 
 function App() {
   return (
-    <div className="mx-7 grid h-screen grid-rows-[auto_1fr_auto]">
+    <div className="grid h-screen grid-rows-[auto_1fr_auto]">
       <Header />
       <Main />
       <Footer />
